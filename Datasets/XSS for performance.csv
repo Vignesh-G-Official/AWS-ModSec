@@ -1,0 +1,203 @@
+,Query,Label,ModSecurity Result Label,AWS WAF Result Label
+0,"<li><a href=""/wiki/File:Socrates.png"" class=""image""><img alt=""Socrates.png"" src=""//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/18px-Socrates.png"" decoding=""async"" width=""18"" height=""28"" class=""noviewer"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/27px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/36px-Socrates.png 2x"" data-file-width=""326"" data-file-height=""500"" /> </a> <a href=""/wiki/Portal:Philosophy"" title=""Portal:Philosophy"">Philosophy&#32;portal </a> </li> </ul>",0,,0
+1,"<tt onmouseover=""alert(1)"">test</tt>",1,,
+2,"	 </span> <span class=""reference-text"">Steering for the 1995 ""<a href=""/wiki/History_of_autonomous_cars#1990s"" class=""mw-redirect"" title=""History of autonomous cars"">No Hands Across America </a>"" required ""only a few human assists"". ",0,0,0
+3,"         </span> <span class=""reference-text""><cite class=""citation web""><a rel=""nofollow"" class=""external text"" href=""https://www.mileseducation.com/finance/artificial_intelligence"">""Miles Education | Future Of Finance | Blockchain Fundamentals for F&amp;A Professionals Certificate"" </a>. <i>www.mileseducation.com </i><span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">26 September ",0,0,0
+4,"	 </span>. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1016%2FS0921-8890%2805%2980025-9"">10.1016/S0921-8890(05)80025-9 </a>. <a rel=""nofollow"" class=""external text"" href=""https://web.archive.org/web/20070809020912/http://people.csail.mit.edu/brooks/papers/elephants.pdf"">Archived </a> <span class=""cs1-format"">(PDF) ",0,,0
+5,"<li id=""cite_note-118""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-118"">^ </a> </b> ",0,0,
+6,"<li><a href=""/wiki/Contextualism"" title=""Contextualism"">Contextualism </a> </li>",0,0,0
+7,"<li id=""cite_note-Representing_causation-95""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Representing_causation_95-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Representing_causation_95-1""><sup><i><b>b </b> </i> </sup> </a> ",0,0,0
+8," <tr><td class=""plainlist"" style=""padding:0 0.1em 0.4em"">",0,,
+9,</span>,0,0,0
+10,"<li><a href=""/wiki/Mind%E2%80%93body_problem"" title=""Mind–body problem"">Mind–body problem </a>",0,0,0
+11,<a onblur=alert(1) tabindex=1 id=x></a><input autofocus>,1,,
+12,"<col draggable=""true"" ondragenter=""alert(1)"">test</col>",1,,
+13,<caption onpointerdown=alert(1)>XSS</caption>,1,,
+14,</span>,0,0,0
+15,"	 </span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/> </li>",0,,
+16,<caption id=x tabindex=1 ondeactivate=alert(1)></caption><input id=y autofocus>,1,,
+17,"<style onmouseleave=""alert(1)"">test</style>",1,,
+18,<svg><meta onload=alert(1)></meta>,1,,
+19,"<li><a href=""/wiki/Programming_language"" title=""Programming language"">Programming language </a> </li>",0,0,0
+20,<figcaption onpointerleave=alert(1)>XSS</figcaption>,1,,
+21,"	 </span> <span class=""reference-text""><cite class=""citation news""><a rel=""nofollow"" class=""external text"" href=""https://www.economist.com/news/special-report/21700756-artificial-intelligence-boom-based-old-idea-modern-twist-not"">""From not working to neural networking"" </a>. <i>The Economist </i>. 2016<span class=""reference-accessdate"">. Retrieved <span class=""nowrap"">26 April ",0,0,0
+22,</div>,0,0,0
+23,<datalist id=x tabindex=1 onfocusin=alert(1)></datalist>,1,,
+24,<input type=image src=1 onerror=alert(1)>,1,,
+25,"<strong ondblclick=""alert(1)"">test</strong>",1,,
+26,"<li><a href=""/wiki/Computer_data_storage"" title=""Computer data storage"">Information storage systems </a> </li>",0,0,0
+27,"<div draggable=""true"" contenteditable>drag me</div><input ondragover=alert(1) contenteditable>drop here</input>",1,,
+28,"	 </span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/> </li>",0,,
+29,"         </span> <span class=""reference-text""><cite class=""citation journal""><a href=""/wiki/Woody_Evans"" title=""Woody Evans"">Evans, Woody </a> (2015). ""Posthuman Rights: Dimensions of Transhuman Worlds"". <i>Teknokultura </i>. <b>12 </b> (2). <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.5209%2Frev_TK.2015.v12.n2.49072"">10.5209/rev_TK.2015.v12.n2.49072 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Teknokultura&amp;rft.atitle=Posthuman+Rights%3A+Dimensions+of+Transhuman+Worlds&amp;rft.volume=12&amp;rft.issue=2&amp;rft.date=2015&amp;rft_id=info%3Adoi%2F10.5209%2Frev_TK.2015.v12.n2.49072&amp;rft.aulast=Evans&amp;rft.aufirst=Woody&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0,,0
+30,"<spacer onkeypress=""alert(1)"" contenteditable>test</spacer>",1,,
+31,"<li><cite id=""CITEREFOudeyer2010"" class=""citation journal"">Oudeyer, P-Y. (2010). <a rel=""nofollow"" class=""external text"" href=""http://www.pyoudeyer.com/IEEETAMDOudeyer10.pdf"">""On the impact of robotics in behavioral and cognitive sciences: from insect navigation to human cognitive development"" </a> <span class=""cs1-format"">(PDF) ",0,,0
+32,"<style>@keyframes slidein {}</style><center style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></center>",1,,
+33,"<pre draggable=""true"" ondragend=""alert(1)"">test</pre>",1,,
+34,</span>,0,0,0
+35,"<li><a href=""#CITEREFNilsson1998"">Nilsson 1998 </a>, chpt. 8 </li> </ul>",0,0,0
+36,<colgroup onblur=alert(1) tabindex=1 id=x></colgroup><input autofocus>,1,,
+37,"<style>@keyframes x{}</style><main style=""animation-name:x"" onanimationstart=""alert(1)""></main>",1,,
+38,"<article draggable=""true"" ondrag=""alert(1)"">test</article>",1,,
+39,"<li><a href=""/wiki/Computational_physics"" title=""Computational physics"">Computational physics </a> </li>",0,0,0
+40,"	 </span>. <i>Behavioral and Brain Sciences </i>. <b>3 </b> (3): 417–457. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1017%2FS0140525X00005756"">10.1017/S0140525X00005756 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Behavioral+and+Brain+Sciences&amp;rft.atitle=Minds%2C+Brains+and+Programs&amp;rft.volume=3&amp;rft.issue=3&amp;rft.pages=417-457&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1017%2FS0140525X00005756&amp;rft.aulast=Searle&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fcogprints.org%2F7150%2F1%2F10.1.1.83.5248.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0,,0
+41,"<rtc draggable=""true"" ondragleave=""alert(1)"">test</rtc>",1,,
+42,"	 </span> <span class=""reference-text""><cite class=""citation journal"">Prakken, Henry (31 August 2017). ""On the problem of making autonomous vehicles conform to traffic law"". <i>Artificial Intelligence and Law </i>. <b>25 </b> (3): 341–363. <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1007%2Fs10506-017-9210-0"">10.1007/s10506-017-9210-0 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Artificial+Intelligence+and+Law&amp;rft.atitle=On+the+problem+of+making+autonomous+vehicles+conform+to+traffic+law&amp;rft.volume=25&amp;rft.issue=3&amp;rft.pages=341-363&amp;rft.date=2017-08-31&amp;rft_id=info%3Adoi%2F10.1007%2Fs10506-017-9210-0&amp;rft.aulast=Prakken&amp;rft.aufirst=Henry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0,,0
+43,"	 </span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[ ",0,0,0
+44,"	<sup id=""cite_ref-Biological_intelligence_vs._intelligence_in_general_16-1"" class=""reference""><a href=""#cite_note-Biological_intelligence_vs._intelligence_in_general-16"">&#91;16&#93; </a> </sup>",0,0,0
+45,"			<div class=""thumbcaption"">",0,0,0
+46,"<li id=""cite_note-recurse-409""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-recurse_409-0"">^ </a> </b> ",0,0,0
+47,"<div draggable=""true"" contenteditable>drag me</div><sup ondrop=alert(1) contenteditable>drop here</sup>",1,,
+48,</div>,0,0,0
+49,"<li><a href=""/wiki/Glossary_of_calculus"" title=""Glossary of calculus"">Calculus </a> </li>",0,0,0
+50,"<frame oncut=""alert(1)"" contenteditable>test</frame>",1,,
+51,"<ul class=""simple"">",0,0,0
+52,"<frameset onmouseover=""alert(1)"">test</frameset>",1,,
+53,"<style>@keyframes x{}</style><nobr style=""animation-name:x"" onanimationstart=""alert(1)""></nobr>",1,,
+54,"<h4><span class=""mw-headline"" id=""Technological_singularity"">Technological singularity ",0,0,0
+55,</span>(1700) </li>,0,,0
+56,<iframe onload=alert(1)></iframe>,1,,
+57,"<strong draggable=""true"" ondragstart=""alert(1)"">test</strong>",1,,
+58,</span> </h3>,0,0,0
+59,"<li id=""cite_note-304""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-304"">^ </a> </b> ",0,0,0
+60,"<!DOCTYPE html><html class=""no-js"" lang=""en"" > ",0,,
+61,"<style>@keyframes x{}</style><h1 style=""animation-name:x"" onanimationstart=""alert(1)""></h1>",1,,
+62,<article onpointerleave=alert(1)>XSS</article>,1,,
+63,"<nextid onmousemove=""alert(1)"">test</nextid>",1,,
+64,javascript:document.location=,1,,
+65,"<style>@keyframes x{}</style><area style=""animation-name:x"" onanimationend=""alert(1)""></area>",1,,
+66,<blockquote onpointermove=alert(1)>XSS</blockquote>,1,,
+67,<time onfocusout=alert(1) tabindex=1 id=x></time><input autofocus>,1,,
+68,"	 <div style=""padding:0em 0.25em"">",0,,
+69,"	 </span><span class=""mw-editsection""><span class=""mw-editsection-bracket"">[ ",0,0,0
+70,</span>,0,0,0
+71,"<style>@keyframes x{}</style><title style=""animation-name:x"" onanimationend=""alert(1)""></title>",1,,
+72,"<li><a href=""/wiki/Brain%E2%80%93computer_interface"" title=""Brain–computer interface"">Neurocybernetics </a> </li>",0,0,0
+73," </div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%"">Mathematics<br />of computing </th><td class=""navbox-list navbox-odd"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0,,
+74,"<h2>Built-in services<a class=""headerlink"" href=""#built-in-services"" title=""Permalink to this headline"">¶</a></h2>",0,0,0
+75,<noembed onpointerout=alert(1)>XSS</noembed>,1,,
+76,"<data onbeforecut=""alert(1)"" contenteditable>test</data>",1,,
+77,"<A HREF=""http://ha.ckers.org@google""></A>",1,0,0
+78,"<plaintext oncut=""alert(1)"" contenteditable>test</plaintext>",1,,
+79,"<s onmousedown=""alert(1)"">test</s>",1,,
+80,"<address onkeypress=""alert(1)"" contenteditable>test</address>",1,,
+81,"	 <div style=""padding:0em 0.25em"">",0,,
+82,"<optgroup onmouseover=""alert(1)"">test</optgroup>",1,,
+83,"	 </span> <span class=""reference-text"">",0,0,0
+84,"	 </span> <span class=""reference-text"">Celli, Fabio, Pietro Zani Massani, and Bruno Lepri. ""Profilio: Psychometric Profiling to Boost Social Media Advertising."" Proceedings of the 2017 ACM on Multimedia Conference. ACM, 2017  <a rel=""nofollow"" class=""external autonumber"" href=""https://www.researchgate.net/publication/320542489_Profilio_Psychometric_Profiling_to_Boost_Social_Media_Advertising"">[1] </a> ",0,0,0
+85,</span>,0,0,0
+86,"<li><a href=""/wiki/Computability_theory"" title=""Computability theory"">Computability theory </a> </li>",0,0,0
+87,"<script onmouseover=""alert(1)"">test</script>",1,,
+88,"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><sub id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></sub>",1,,
+89,testing.</p>,0,0,0
+90,"<image onclick=""alert(1)"">test</image>",1,,
+91,</li>,0,0,0
+92,"<tfoot onclick=""alert(1)"">test</tfoot>",1,,
+93,<ul onpointerenter=alert(1)>XSS</ul>,1,,
+94,"<bdo draggable=""true"" ondragenter=""alert(1)"">test</bdo>",1,,
+95,"<li><a href=""/wiki/Mind"" title=""Mind"">Mind </a> </li>",0,0,0
+96,<spacer id=x tabindex=1 onbeforeactivate=alert(1)></spacer>,1,,
+97,"<style>@keyframes slidein {}</style><shadow style=""animation-duration:1s;animation-name:slidein;animation-iteration-count:2"" onanimationiteration=""alert(1)""></shadow>",1,,
+98,<noscript id=x tabindex=1 onfocusin=alert(1)></noscript>,1,,
+99,"<dd onmouseout=""alert(1)"">test</dd>",1,,
+100,"<div class=""thumb tright"">",0,0,0
+101,<pre id=x tabindex=1 onbeforedeactivate=alert(1)></pre><input autofocus>,1,,
+102,"<li><a href=""/wiki/Automated_planning_and_scheduling"" title=""Automated planning and scheduling"">Planning </a> </li>",0,0,0
+103,"	 </span> <span class=""reference-text"">",0,0,0
+104,"<data draggable=""true"" ondragstart=""alert(1)"">test</data>",1,,
+105,</ul>,0,0,0
+106,"<li><a href=""#CITEREFRussellNorvig2003"">Russell &amp; Norvig 2003 </a>, pp.&#160;649–788, </li>",0,0,0
+107,"<li><a href=""/wiki/Underdetermination"" title=""Underdetermination"">Underdetermination </a> </li>",0,0,0
+108,"	 </span> <span class=""reference-text""><a href=""#CITEREFMcCorduck2004"">McCorduck 2004 </a>, pp.&#160;480–483. ",0,,0
+109,</span> </h4>,0,0,0
+110,"        <a href=""intro/overview.html"" class=""btn btn-neutral float-right"" title=""Scrapy at a glance"" accesskey=""n"" rel=""next"">Next <span class=""fa fa-arrow-circle-right"">",0,0,0
+111,"	 </span>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=ZDNet&amp;rft.atitle=Half+of+Americans+do+not+believe+deepfake+news+could+target+them+online&amp;rft.aulast=Brown&amp;rft.aufirst=Eileen&amp;rft_id=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fhalf-of-americans-do-not-believe-deepfake-news-could-target-them-online%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0,0,0
+112,"<sub draggable=""true"" ondragend=""alert(1)"">test</sub>",1,,
+113,"<li><cite id=""CITEREFTuring1950"" class=""citation""><a href=""/wiki/Alan_Turing"" title=""Alan Turing"">Turing, Alan </a> (October 1950), ""Computing Machinery and Intelligence"", <i><a href=""/wiki/Mind_(journal)"" title=""Mind (journal)"">Mind </a> </i>, <b>LIX </b> (236): 433–460, <a href=""/wiki/Digital_object_identifier"" title=""Digital object identifier"">doi </a>:<a rel=""nofollow"" class=""external text"" href=""https://doi.org/10.1093%2Fmind%2FLIX.236.433"">10.1093/mind/LIX.236.433 </a>, <a href=""/wiki/International_Standard_Serial_Number"" title=""International Standard Serial Number"">ISSN </a>&#160;<a rel=""nofollow"" class=""external text"" href=""//www.worldcat.org/issn/0026-4423"">0026-4423 </a> </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mind&amp;rft.atitle=Computing+Machinery+and+Intelligence&amp;rft.volume=LIX&amp;rft.issue=236&amp;rft.pages=433-460&amp;rft.date=1950-10&amp;rft_id=info%3Adoi%2F10.1093%2Fmind%2FLIX.236.433&amp;rft.issn=0026-4423&amp;rft.aulast=Turing&amp;rft.aufirst=Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0,,0
+114,"<dialog draggable=""true"" ondragenter=""alert(1)"">test</dialog>",1,,
+115,<iframe onblur=alert(1) id=x><input autofocus>,1,,
+116,<legend id=x tabindex=1 ondeactivate=alert(1)></legend><input id=y autofocus>,1,,
+117,"        <script src=""_static/js/hoverxref.js""></script>",0,,
+118,</span>(2014) </li>,0,,0
+119,Refuting Mathematical Objection:,0,0,0
+120,</span> </li>,0,0,0
+121,</span> </li>,0,0,0
+122,<meter id=x tabindex=1 onbeforedeactivate=alert(1)></meter><input autofocus>,1,,
+123,</li>,0,0,0
+124,"<li><a href=""/wiki/Philosophy_of_computer_science"" title=""Philosophy of computer science"">Computer science </a> </li> </ul> </li>",0,0,0
+125,"<em draggable=""true"" ondragleave=""alert(1)"">test</em>",1,,
+126,</span> </h4>,0,0,0
+127,"<small onbeforecut=""alert(1)"" contenteditable>test</small>",1,,
+128,"<article draggable=""true"" ondragstart=""alert(1)"">test</article>",1,,
+129,"<cite onkeyup=""alert(1)"" contenteditable>test</cite>",1,,
+130,<u onblur=alert(1) tabindex=1 id=x></u><input autofocus>,1,,
+131,<data onpointerleave=alert(1)>XSS</data>,1,,
+132,"<audio draggable=""true"" ondragend=""alert(1)"">test</audio>",1,,
+133,</span>(2012) </li>,0,,0
+134,"<li><a href=""/wiki/Juggling_robot"" title=""Juggling robot"">Juggling </a> </li>",0,0,0
+135,"<li id=""cite_note-FOOTNOTEWengMcClellandPentlandSporns2001-168""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTEWengMcClellandPentlandSporns2001_168-0"">^ </a> </b> ",0,0,0
+136,"<dd onbeforecopy=""alert(1)"" contenteditable>test</dd>",1,,
+137,</span> </li>,0,0,0
+138,<del id=x tabindex=1 onactivate=alert(1)></del>,1,,
+139,"<svg onbeforecut=""alert(1)"" contenteditable>test</svg>",1,,
+140,"<li id=""cite_note-262""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-262"">^ </a> </b> ",0,0,0
+141,"<li class=""toclevel-2 tocsection-15""><a href=""#Cybernetics_and_brain_simulation""><span class=""tocnumber"">5.1 ",0,0,0
+142,<optgroup onpointerover=alert(1)>XSS</optgroup>,1,,
+143,</span>,0,0,0
+144,"             </li><li style=""min-height: 31px;""><span style=""display: inline-block; width: 31px; line-height: 31px; vertical-align: middle; text-align: center;""><img alt="""" src=""//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/27px-Wikibooks-logo.svg.png"" decoding=""async"" width=""27"" height=""27"" style=""vertical-align: middle"" srcset=""//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/41px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/54px-Wikibooks-logo.svg.png 2x"" data-file-width=""300"" data-file-height=""300"" /> ",0,,
+145,<audio onpointermove=alert(1)>XSS</audio>,1,,
+146,"<aside onmouseout=""alert(1)"">test</aside>",1,,
+147,<div>,0,0,0
+148,"<li><a href=""/wiki/Viv_(software)"" title=""Viv (software)"">Viv </a><span class=""nowrap"">&#160; ",0,0,0
+149,</span> </a> </li>,0,0,0
+150,"<canvas onbeforecut=""alert(1)"" contenteditable>test</canvas>",1,,
+151,</span>,0,0,0
+152,"	 </span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/> </li>",0,,
+153,</span>,0,0,0
+154,"<div draggable=""true"" contenteditable>drag me</div><section ondragover=alert(1) contenteditable>drop here</section>",1,,
+155,"<tbody draggable=""true"" ondragenter=""alert(1)"">test</tbody>",1,,
+156,"	 </span><a href=""/w/index.php?title=Artificial_intelligence&amp;action=edit&amp;section=48"" title=""Edit section: Philosophy and ethics"">edit </a><span class=""mw-editsection-bracket"">] ",0,0,0
+157,"<li id=""cite_note-Robotic_mapping-131""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-Robotic_mapping_131-0"">^ </a> </b> ",0,0,0
+158,"<object onmousedown=""alert(1)"">test</object>",1,,
+159,"<area onbeforepaste=""alert(1)"" contenteditable>test</area>",1,,
+160,</li>,0,0,0
+161,"<ul><li><a href=""#CITEREFKurzweil1999"">Kurzweil 1999 </a> and <a href=""#CITEREFKurzweil2005"">Kurzweil 2005 </a> </li> </ul>",0,0,0
+162,<template onpointerout=alert(1)>XSS</template>,1,,
+163,"	 </span><link rel=""mw-deduplicated-inline-style"" href=""mw-data:TemplateStyles:r935243608""/> ",0,,
+164,<s onpointerup=alert(1)>XSS</s>,1,,
+165,"<select draggable=""true"" ondrag=""alert(1)"">test</select>",1,,
+166,"<a onmouseup=""alert(1)"">test</a>",1,,
+167," </div> </td> </tr><tr><th scope=""row"" class=""navbox-group"" style=""width:1%"">Related techniques </th><td class=""navbox-list navbox-odd hlist"" style=""text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"">",0,,
+168,"<li id=""cite_note-59""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-59"">^ </a> </b> ",0,0,0
+169,"<style>:target {color: red;}</style><pre id=x style=""transition:color 10s"" ontransitioncancel=alert(1)></pre>",1,,
+170,"<li><a href=""/wiki/Photo_manipulation"" title=""Photo manipulation"">Image manipulation </a> </li>",0,0,0
+171,"<style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><a id=x style=""position:absolute;"" onanimationcancel=""alert(1)""></a>",1,,
+172,<main onfocusout=alert(1) tabindex=1 id=x></main><input autofocus>,1,,
+173,"<time onclick=""alert(1)"">test</time>",1,,
+174,</span>,0,0,0
+175,"<canvas onbeforepaste=""alert(1)"" contenteditable>test</canvas>",1,,
+176,<figure id=x tabindex=1 ondeactivate=alert(1)></figure><input id=y autofocus>,1,,
+177,"<li><a href=""/wiki/Centre_for_the_Study_of_Existential_Risk"" title=""Centre for the Study of Existential Risk"">Centre for the Study of Existential Risk </a> </li>",0,0,0
+178,"<li><cite id=""CITEREFLenatGuha1989"" class=""citation book""><a href=""/wiki/Douglas_Lenat"" title=""Douglas Lenat"">Lenat, Douglas </a>; Guha, R. V. (1989). <i>Building Large Knowledge-Based Systems </i>. Addison-Wesley. <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-0-201-51752-1"" title=""Special:BookSources/978-0-201-51752-1""><bdi>978-0-201-51752-1 </bdi> </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Building+Large+Knowledge-Based+Systems&amp;rft.pub=Addison-Wesley&amp;rft.date=1989&amp;rft.isbn=978-0-201-51752-1&amp;rft.aulast=Lenat&amp;rft.aufirst=Douglas&amp;rft.au=Guha%2C+R.+V.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0,0,0
+179,"<li id=""cite_note-Brain_simulation-153""><span class=""mw-cite-backlink"">^ <a href=""#cite_ref-Brain_simulation_153-0""><sup><i><b>a </b> </i> </sup> </a> <a href=""#cite_ref-Brain_simulation_153-1""><sup><i><b>b </b> </i> </sup> </a> ",0,0,0
+180,"<ul><li><cite class=""citation book""><a href=""/wiki/David_Berlinski"" title=""David Berlinski"">Berlinski, David </a> (2000). <a rel=""nofollow"" class=""external text"" href=""https://archive.org/details/adventofalgorith0000berl""><i>The Advent of the Algorithm </i> </a>. Harcourt Books. <a href=""/wiki/International_Standard_Book_Number"" title=""International Standard Book Number"">ISBN </a>&#160;<a href=""/wiki/Special:BookSources/978-0-15-601391-8"" title=""Special:BookSources/978-0-15-601391-8""><bdi>978-0-15-601391-8 </bdi> </a>. <a href=""/wiki/OCLC"" title=""OCLC"">OCLC </a>&#160;<a rel=""nofollow"" class=""external text"" href=""//www.worldcat.org/oclc/46890682"">46890682 </a>. </cite><span title=""ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Advent+of+the+Algorithm&amp;rft.pub=Harcourt+Books&amp;rft.date=2000&amp;rft_id=info%3Aoclcnum%2F46890682&amp;rft.isbn=978-0-15-601391-8&amp;rft.aulast=Berlinski&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fadventofalgorith0000berl&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArtificial+intelligence"" class=""Z3988""> ",0,,0
+181,"<center onclick=""alert(1)"">test</center>",1,,
+182,"<h1 draggable=""true"" ondragleave=""alert(1)"">test</h1>",1,,
+183,"<div onkeyup=""alert(1)"" contenteditable>test</div>",1,,
+184,<marquee id=x tabindex=1 onbeforedeactivate=alert(1)></marquee><input autofocus>,1,,
+185,"<dl draggable=""true"" ondrag=""alert(1)"">test</dl>",1,,
+186,<div onpointerout=alert(1)>XSS</div>,1,,
+187,</span> </h4>,0,0,0
+188,"<style>:target {color:red;}</style><slot id=x style=""transition:color 1s"" ontransitionend=alert(1)></slot>",1,,
+189,"<applet onmouseover=""alert(1)"">test</applet>",1,,
+190,"<figure onbeforecut=""alert(1)"" contenteditable>test</figure>",1,,
+191,"<canvas onmousemove=""alert(1)"">test</canvas>",1,,
+192,"<h1 onpaste=""alert(1)"" contenteditable>test</h1>",1,,
+193,"<li id=""cite_note-ivak1971-253""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-ivak1971_253-0"">^ </a> </b> ",0,0,0
+194,<area onfocusout=alert(1) tabindex=1 id=x></area><input autofocus>,1,,
+195,</div>,0,0,0
+196,"<li id=""cite_note-FOOTNOTERussellNorvig200918.12:_Learning_from_Examples:_Summary-231""><span class=""mw-cite-backlink""><b><a href=""#cite_ref-FOOTNOTERussellNorvig200918.12:_Learning_from_Examples:_Summary_231-0"">^ </a> </b> ",0,0,0
+197,<textarea onpointermove=alert(1)>XSS</textarea>,1,,
+198,</body>,0,0,0
+199,document.write,1,,0
+200,<area onpointerenter=alert(1)>XSS</area>,1,,
+201,"<script>alert(""You have been Hacked"")</script>",1,,
